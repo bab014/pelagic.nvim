@@ -12,7 +12,7 @@ The dark and deep blues inspired by the wide open and deepest parts of the ocean
 
 Used for backgrounds and more subtle highlighting
 
-<img src="./assets/pelagic_whale_color.png" alt="drawing" width="125"/>
+<img src="./assets/pelagic_whale_color.png" alt="drawing" width="125"/><img src="./assets/pelagic_manta.png" alt="drawing" width="125"/><img src="./assets/pelagic_orca.png" alt="drawing" width="125"/>
 
 ![benthic swatch](./assets/dark_color_swatch.png)
 
@@ -22,7 +22,7 @@ From the foam of waves and the floating ice of the arctic, these whites and ligh
 
 Used as foreground and subtle highlighting
 
-<img src="./assets/jelly_new.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/>
+<img src="./assets/pelagic_polar_bear.png" alt="drawing" width="95"/><img src="./assets/jelly_new.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/>
 
 ![ice and foam swatch](./assets/white_color_swatch.png)
 
@@ -30,7 +30,7 @@ Used as foreground and subtle highlighting
 
 Also inspired by the Nord color scheme, these blues are brightened to provide a higher contrast against the deep, benthic blues
 
-<img src="./assets/pelagic_s_eel.png" alt="drawing" width="95"/>
+<img src="./assets/pelagic_s_eel.png" alt="drawing" width="95"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="120"/>
 
 ![endless blues swatch](./assets/blues_color_swatch.png)
 
@@ -38,7 +38,7 @@ Also inspired by the Nord color scheme, these blues are brightened to provide a 
 
 The vibrancy of the ocean doesn't stop at blue, it is rich with colorful animals and corals which inspired these bright, contrasting colors used to highlight everything
 
-<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/>
+<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/>
 
 ![coral swatch](./assets/colors_color_swatch.png)
 
