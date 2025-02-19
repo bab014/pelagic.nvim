@@ -30,7 +30,7 @@ Used as foreground and subtle highlighting
 
 Also inspired by the Nord color scheme, these blues are brightened to provide a higher contrast against the deep, benthic blues
 
-<img src="./assets/pelagic_s_eel.png" alt="drawing" width="95"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="120"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="150"/>
+<img src="./assets/pelagic_s_eel.png" alt="drawing" width="95"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="120"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="150"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="150"/>
 
 ![endless blues swatch](./assets/blues_color_swatch.png)
 
