@@ -4,6 +4,8 @@
 
 ![banner](./assets/pelagic_banner_seastar_1.png)
 
+![neovim screenshot](./assets/nvim_screenshot.png)
+
 ### Benthic
 
 The dark and deep blues inspired by the wide open and deepest parts of the ocean
