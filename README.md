@@ -22,7 +22,7 @@ From the foam of waves and the floating ice of the arctic, these whites and ligh
 
 Used as foreground and subtle highlighting
 
-<img src="./assets/pelagic_polar_bear.png" alt="drawing" width="95"/><img src="./assets/jelly_new.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/>
+<img src="./assets/pelagic_polar_bear.png" alt="drawing" width="95"/><img src="./assets/jelly_new.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/><img src="./assets/pelagic_seal.png" alt="drawing" width="90"/>
 
 ![ice and foam swatch](./assets/white_color_swatch.png)
 
