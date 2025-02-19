@@ -1,7 +1,5 @@
 # bab014/pelagic.nvim
 
-[Pelagic](https://en.wikipedia.org/wiki/Pelagic_zone)
-
 ## Neovim theme with lots of _blue_ inspired by the [Pelagic Zone](https://en.wikipedia.org/wiki/Pelagic_zone) of the ocean
 
 ![banner](./assets/pelagic_banner_seastar_1.png)
@@ -22,8 +20,7 @@ From the foam of waves and the floating ice of the arctic, these whites and ligh
 
 Used as foreground and subtle highlighting
 
-<img src="./assets/jelly_new.png" alt="drawing" width="95"/>
-<img src="./assets/ice_berg.png" alt="drawing" width="70"/>
+<img src="./assets/jelly_new.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/>
 
 ![ice and foam swatch](./assets/white_color_swatch.png)
 
@@ -39,16 +36,8 @@ Also inspired by the Nord color scheme, these blues are brightened to provide a 
 
 The vibrancy of the ocean doesn't stop at blue, it is rich with colorful animals and corals which inspired these bright, contrasting colors used to highlight everything
 
-<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/>
-<img src="./assets/pelagic_fish.png" alt="drawing" width="105"/>
-<img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/>
+<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/>
 
 ![coral swatch](./assets/colors_color_swatch.png)
 
-<img src="./assets/kelp_motion.png" alt="drawing" width="110"/>
-<img src="./assets/coral_purple.png" alt="drawing" width="110"/>
-<img src="./assets/kelp.png" alt="drawing" width="110"/>
-<img src="./assets/coral_orange.png" alt="drawing" width="110"/>
-<img src="./assets/coral_red.png" alt="drawing" width="110"/>
-<img src="./assets/coral_yellow.png" alt="drawing" width="110"/>
-<img src="./assets/kelp_motion_left.png" alt="drawing" width="110"/>
+<img src="./assets/kelp_motion.png" alt="drawing" width="110"/><img src="./assets/coral_purple.png" alt="drawing" width="110"/><img src="./assets/kelp.png" alt="drawing" width="110"/><img src="./assets/coral_orange.png" alt="drawing" width="110"/><img src="./assets/coral_red.png" alt="drawing" width="110"/><img src="./assets/coral_yellow.png" alt="drawing" width="110"/><img src="./assets/kelp_motion_left.png" alt="drawing" width="110"/>
