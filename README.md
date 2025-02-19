@@ -12,7 +12,7 @@ The dark and deep blues inspired by the wide open and deepest parts of the ocean
 
 Used for backgrounds and more subtle highlighting
 
-<img src="./assets/pelagic_whale_color.png" alt="drawing" width="125"/><img src="./assets/pelagic_manta.png" alt="drawing" width="125"/><img src="./assets/pelagic_orca.png" alt="drawing" width="125"/><img src="./assets/pelagic_shark.png" alt="drawing" width="125"/>
+<img src="./assets/pelagic_whale_color.png" alt="drawing" width="125"/><img src="./assets/pelagic_manta.png" alt="drawing" width="125"/><img src="./assets/pelagic_orca.png" alt="drawing" width="125"/><img src="./assets/pelagic_shark.png" alt="drawing" width="125"/><img src="./assets/pelagic_albatross.png" alt="drawing" width="95"/>
 
 ![benthic swatch](./assets/dark_color_swatch.png)
 
