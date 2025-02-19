@@ -38,7 +38,7 @@ Also inspired by the Nord color scheme, these blues are brightened to provide a 
 
 The vibrancy of the ocean doesn't stop at blue, it is rich with colorful animals and corals which inspired these bright, contrasting colors used to highlight everything
 
-<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_shell.png" alt="drawing" width="65"/>
+<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_shell.png" alt="drawing" width="65"/><img src="./assets/pelagic_sea_weed.png" alt="drawing" width="95"/>
 
 ![coral swatch](./assets/colors_color_swatch.png)
 
