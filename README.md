@@ -22,7 +22,7 @@ From the foam of waves and the floating ice of the arctic, these whites and ligh
 
 Used as foreground and subtle highlighting
 
-<img src="./assets/pelagic_polar_bear.png" alt="drawing" width="95"/><img src="./assets/jelly_new.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/><img src="./assets/pelagic_seal.png" alt="drawing" width="90"/>
+<img src="./assets/pelagic_polar_bear.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/><img src="./assets/pelagic_seal.png" alt="drawing" width="90"/>
 
 ![ice and foam swatch](./assets/white_color_swatch.png)
 
@@ -30,7 +30,7 @@ Used as foreground and subtle highlighting
 
 Also inspired by the Nord color scheme, these blues are brightened to provide a higher contrast against the deep, benthic blues
 
-<img src="./assets/pelagic_s_eel.png" alt="drawing" width="95"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="120"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="150"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="150"/>
+<img src="./assets/pelagic_s_eel.png" alt="drawing" width="95"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="120"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="150"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="150"/><img src="./assets/jelly_new.png" alt="drawing" width="120"/>
 
 ![endless blues swatch](./assets/blues_color_swatch.png)
 
