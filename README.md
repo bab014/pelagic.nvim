@@ -4,7 +4,10 @@
 
 ![banner](./assets/pelagic_banner_seastar_1.png)
 
+## Screenshots
+
 ![neovim screenshot](./assets/nvim_screenshot.png)
+<img src="./assets/pelagic_wave.png" alt="drawing" width="130"/>
 
 ### Benthic
 
@@ -22,7 +25,7 @@ From the foam of waves and the floating ice of the arctic, these whites and ligh
 
 Used as foreground and subtle highlighting
 
-<img src="./assets/pelagic_polar_bear.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/><img src="./assets/pelagic_seal.png" alt="drawing" width="90"/><img src="./assets/pelagic_penguin.png" alt="drawing" width="90"/>
+<img src="./assets/pelagic_polar_bear.png" alt="drawing" width="95"/><img src="./assets/ice_berg.png" alt="drawing" width="70"/><img src="./assets/pelagic_seal.png" alt="drawing" width="90"/><img src="./assets/pelagic_penguin.png" alt="drawing" width="90"/><img src="./assets/pelagic_narwhal.png" alt="drawing" width="130"/>
 ![ice and foam swatch](./assets/white_color_swatch.png)
 
 ### Endless Blues
@@ -37,7 +40,7 @@ Also inspired by the Nord color scheme, these blues are brightened to provide a 
 
 The vibrancy of the ocean doesn't stop at blue, it is rich with colorful animals and corals which inspired these bright, contrasting colors used to highlight everything
 
-<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_orange_shell.png" alt="drawing" width="65"/><img src="./assets/pelagic_shell.png" alt="drawing" width="65"/><img src="./assets/pelagic_sea_weed.png" alt="drawing" width="95"/><img src="./assets/pelagic_clown_fish.png" alt="drawing" width="105"/>
+<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_orange_shell.png" alt="drawing" width="65"/><img src="./assets/pelagic_shell.png" alt="drawing" width="65"/><img src="./assets/pelagic_sea_weed.png" alt="drawing" width="95"/><img src="./assets/pelagic_clown_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_octopus.png" alt="drawing" width="95"/>
 
 ![coral swatch](./assets/colors_color_swatch.png)
 
