@@ -7,7 +7,7 @@
 ## Screenshots
 
 ![neovim screenshot](./assets/nvim_screenshot.png)
-<img src="./assets/pelagic_wave.png" alt="drawing" width="130"/>
+<img src="./assets/pelagic_wave.png" alt="drawing" width="130"/><img src="./assets/pelagic_ice_only.png" alt="drawing" width="130"/><img src="./assets/pelagic_underwater.png" alt="drawing" width="130"/><img src="./assets/pelagic_sunset.png" alt="drawing" width="130"/>
 
 ### Benthic
 
@@ -32,7 +32,7 @@ Used as foreground and subtle highlighting
 
 Also inspired by the Nord color scheme, these blues are brightened to provide a higher contrast against the deep, benthic blues
 
-<img src="./assets/pelagic_s_eel.png" alt="drawing" width="95"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="120"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="150"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="150"/><img src="./assets/jelly_new.png" alt="drawing" width="120"/><img src="./assets/pelagic_dolphin.png" alt="drawing" width="170"/>
+<img src="./assets/pelagic_eel_delux.png" alt="drawing" width="85"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="90"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="100"/><img src="./assets/pelagic_jellyfish.png" alt="drawing" width="90"/><img src="./assets/pelagic_dolphin.png" alt="drawing" width="120"/><img src="./assets/pelagic_mahi.png" alt="drawing" width="120"/>
 
 ![endless blues swatch](./assets/blues_color_swatch.png)
 
@@ -40,8 +40,8 @@ Also inspired by the Nord color scheme, these blues are brightened to provide a 
 
 The vibrancy of the ocean doesn't stop at blue, it is rich with colorful animals and corals which inspired these bright, contrasting colors used to highlight everything
 
-<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_orange_shell.png" alt="drawing" width="65"/><img src="./assets/pelagic_shell.png" alt="drawing" width="65"/><img src="./assets/pelagic_sea_weed.png" alt="drawing" width="95"/><img src="./assets/pelagic_clown_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_octopus.png" alt="drawing" width="95"/>
+<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_fish.png" alt="drawing" width="105"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_clown_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_octopus.png" alt="drawing" width="95"/><img src="./assets/pelagic_mackerel.png" alt="drawing" width="115"/>
 
 ![coral swatch](./assets/colors_color_swatch.png)
 
-<img src="./assets/kelp_motion.png" alt="drawing" width="110"/><img src="./assets/coral_purple.png" alt="drawing" width="110"/><img src="./assets/kelp.png" alt="drawing" width="110"/><img src="./assets/coral_orange.png" alt="drawing" width="110"/><img src="./assets/coral_red.png" alt="drawing" width="110"/><img src="./assets/coral_yellow.png" alt="drawing" width="110"/><img src="./assets/kelp_motion_left.png" alt="drawing" width="110"/>
+<img src="./assets/kelp_motion.png" alt="drawing" width="110"/><img src="./assets/pelagic_orange_shell.png" alt="drawing" width="70"/><img src="./assets/coral_purple.png" alt="drawing" width="110"/><img src="./assets/kelp.png" alt="drawing" width="110"/><img src="./assets/pelagic_shell.png" alt="drawing" width="60"/><img src="./assets/coral_orange.png" alt="drawing" width="110"/><img src="./assets/pelagic_kelp_3.png" alt="drawing" width="110"/><img src="./assets/coral_red.png" alt="drawing" width="110"/><img src="./assets/pelagic_sea_weed.png" alt="drawing" width="110"/><img src="./assets/coral_yellow.png" alt="drawing" width="110"/><img src="./assets/kelp_motion_left.png" alt="drawing" width="110"/>
