@@ -7,7 +7,7 @@
 ## Screenshots
 
 ![neovim screenshot](./assets/nvim_screenshot.png)
-<img src="./assets/pelagic_wave.png" alt="drawing" width="130"/><img src="./assets/pelagic_ice_only.png" alt="drawing" width="130"/><img src="./assets/pelagic_underwater.png" alt="drawing" width="130"/><img src="./assets/pelagic_sunset.png" alt="drawing" width="130"/>
+<img src="./assets/pelagic_open_ocean.png" alt="drawing" width="130"/><img src="./assets/pelagic_wave.png" alt="drawing" width="130"/><img src="./assets/pelagic_ice_only.png" alt="drawing" width="130"/><img src="./assets/pelagic_underwater.png" alt="drawing" width="130"/><img src="./assets/pelagic_sunset.png" alt="drawing" width="130"/>
 
 ### Benthic
 
