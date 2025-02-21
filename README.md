@@ -10,7 +10,7 @@ Please consider donating to [Clean the Oceans](https://theoceancleanup.com/donat
 
 <img src="./assets/nvim_screenshot.png" alt="drawing" width="380"/><img src="./assets/python_screenshot.png" alt="drawing" width="380"/>
 
-<img src="./assets/pelagic_open_ocean.png" alt="drawing" width="130"/><img src="./assets/pelagic_wave.png" alt="drawing" width="130"/><img src="./assets/pelagic_ice_only.png" alt="drawing" width="130"/><img src="./assets/pelagic_underwater.png" alt="drawing" width="130"/><img src="./assets/pelagic_sunset.png" alt="drawing" width="130"/>
+<img src="./assets/pelagic_open_ocean.png" alt="drawing" width="130"/><img src="./assets/pelagic_wave.png" alt="drawing" width="130"/><img src="./assets/pelagic_ice_only.png" alt="drawing" width="130"/><img src="./assets/pelagic_underwater.png" alt="drawing" width="130"/><img src="./assets/pelagic_sunset.png" alt="drawing" width="130"/><img src="./assets/pelagic_otter_kelp.png" alt="drawing" width="130"/>
 
 ### Benthic
 
@@ -35,7 +35,7 @@ Used as foreground and subtle highlighting
 
 Also inspired by the Nord color scheme, these blues are brightened to provide a higher contrast against the deep, benthic blues
 
-<img src="./assets/pelagic_eel_delux.png" alt="drawing" width="85"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="90"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="100"/><img src="./assets/pelagic_jellyfish.png" alt="drawing" width="90"/><img src="./assets/pelagic_dolphin.png" alt="drawing" width="120"/><img src="./assets/pelagic_mahi.png" alt="drawing" width="120"/><img src="./assets/pelagic_sea_turtle_2.png" alt="drawing" width="90"/>
+<img src="./assets/pelagic_eel_delux.png" alt="drawing" width="85"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="90"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="100"/><img src="./assets/pelagic_jellyfish.png" alt="drawing" width="90"/><img src="./assets/pelagic_dolphin.png" alt="drawing" width="120"/><img src="./assets/pelagic_mahi.png" alt="drawing" width="120"/><img src="./assets/pelagic_sea_turtle_2.png" alt="drawing" width="90"/><img src="./assets/pelagic_whale_shark.png" alt="drawing" width="130"/>
 
 ![endless blues swatch](./assets/blues_color_swatch.png)
 
@@ -43,7 +43,7 @@ Also inspired by the Nord color scheme, these blues are brightened to provide a 
 
 The vibrancy of the ocean doesn't stop at blue, it is rich with colorful animals and corals which inspired these bright, contrasting colors used to highlight everything
 
-<img src="./assets/pelagic_crab2.png" alt="drawing" width="95"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_clown_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_blue_tang.png" alt="drawing" width="95"/><img src="./assets/pelagic_octopus.png" alt="drawing" width="95"/><img src="./assets/pelagic_mackerel.png" alt="drawing" width="115"/><img src="./assets/pelagic_nautilus.png" alt="drawing" width="80"/>
+<img src="./assets/pelagic_crab2.png" alt="drawing" width="95"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_clown_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_blue_tang.png" alt="drawing" width="95"/><img src="./assets/pelagic_octopus.png" alt="drawing" width="95"/><img src="./assets/pelagic_cuttlefish.png" alt="drawing" width="95"/><img src="./assets/pelagic_mackerel.png" alt="drawing" width="115"/><img src="./assets/pelagic_nautilus.png" alt="drawing" width="80"/>
 
 ![coral swatch](./assets/colors_color_swatch.png)
 
