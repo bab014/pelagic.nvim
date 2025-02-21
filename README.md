@@ -2,7 +2,7 @@
 
 ## Neovim theme with lots of _blue_ inspired by the [Pelagic Zone](https://en.wikipedia.org/wiki/Pelagic_zone) of the ocean
 
-Please consider donating to [Clean the Oceans](https://theoceancleanup.com/donate-as-person/) and help
+Please consider donating to [Clean the Oceans](https://theoceancleanup.com/donate-as-person/)
 
 ![banner](./assets/pelagic_banner_seastar_1.png)
 
