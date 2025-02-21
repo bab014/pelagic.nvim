@@ -43,7 +43,7 @@ Also inspired by the Nord color scheme, these blues are brightened to provide a 
 
 The vibrancy of the ocean doesn't stop at blue, it is rich with colorful animals and corals which inspired these bright, contrasting colors used to highlight everything
 
-<img src="./assets/pelagic_crab.png" alt="drawing" width="95"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_clown_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_blue_tang.png" alt="drawing" width="95"/><img src="./assets/pelagic_octopus.png" alt="drawing" width="95"/><img src="./assets/pelagic_mackerel.png" alt="drawing" width="115"/><img src="./assets/pelagic_nautilus.png" alt="drawing" width="80"/>
+<img src="./assets/pelagic_crab2.png" alt="drawing" width="95"/><img src="./assets/pelagic_starfish.png" alt="drawing" width="95"/><img src="./assets/pelagic_squid.png" alt="drawing" width="95"/><img src="./assets/pelagic_clown_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_blue_tang.png" alt="drawing" width="95"/><img src="./assets/pelagic_octopus.png" alt="drawing" width="95"/><img src="./assets/pelagic_mackerel.png" alt="drawing" width="115"/><img src="./assets/pelagic_nautilus.png" alt="drawing" width="80"/>
 
 ![coral swatch](./assets/colors_color_swatch.png)
 
