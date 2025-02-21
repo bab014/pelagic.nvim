@@ -6,7 +6,8 @@
 
 ## Screenshots
 
-![neovim screenshot](./assets/nvim_screenshot.png)
+<img src="./assets/nvim_screenshot.png" alt="drawing" width="380"/><img src="./assets/python_screenshot.png" alt="drawing" width="380"/>
+
 <img src="./assets/pelagic_open_ocean.png" alt="drawing" width="130"/><img src="./assets/pelagic_wave.png" alt="drawing" width="130"/><img src="./assets/pelagic_ice_only.png" alt="drawing" width="130"/><img src="./assets/pelagic_underwater.png" alt="drawing" width="130"/><img src="./assets/pelagic_sunset.png" alt="drawing" width="130"/>
 
 ### Benthic
@@ -15,7 +16,7 @@ The dark and deep blues inspired by the wide open and deepest parts of the ocean
 
 Used for backgrounds and more subtle highlighting
 
-<img src="./assets/pelagic_whale_color.png" alt="drawing" width="125"/><img src="./assets/pelagic_manta.png" alt="drawing" width="125"/><img src="./assets/pelagic_orca.png" alt="drawing" width="125"/><img src="./assets/pelagic_shark.png" alt="drawing" width="125"/><img src="./assets/pelagic_albatross.png" alt="drawing" width="95"/><img src="./assets/pelagic_humpback.png" alt="drawing" width="130"/>
+<img src="./assets/pelagic_whale_color.png" alt="drawing" width="125"/><img src="./assets/pelagic_orca.png" alt="drawing" width="125"/><img src="./assets/pelagic_shark.png" alt="drawing" width="125"/><img src="./assets/pelagic_albatross.png" alt="drawing" width="95"/><img src="./assets/pelagic_humpback.png" alt="drawing" width="130"/><img src="./assets/pelagic_manta.png" alt="drawing" width="125"/>
 
 ![benthic swatch](./assets/dark_color_swatch.png)
 
@@ -32,7 +33,7 @@ Used as foreground and subtle highlighting
 
 Also inspired by the Nord color scheme, these blues are brightened to provide a higher contrast against the deep, benthic blues
 
-<img src="./assets/pelagic_eel_delux.png" alt="drawing" width="85"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="90"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="100"/><img src="./assets/pelagic_jellyfish.png" alt="drawing" width="90"/><img src="./assets/pelagic_dolphin.png" alt="drawing" width="120"/><img src="./assets/pelagic_mahi.png" alt="drawing" width="120"/>
+<img src="./assets/pelagic_eel_delux.png" alt="drawing" width="85"/><img src="./assets/pelagic_turtle.png" alt="drawing" width="90"/><img src="./assets/pelagic_parrot_fish.png" alt="drawing" width="90"/><img src="./assets/pelagic_sail_fish.png" alt="drawing" width="100"/><img src="./assets/pelagic_jellyfish.png" alt="drawing" width="90"/><img src="./assets/pelagic_dolphin.png" alt="drawing" width="120"/><img src="./assets/pelagic_mahi.png" alt="drawing" width="120"/><img src="./assets/pelagic_sea_turtle_2.png" alt="drawing" width="90"/>
 
 ![endless blues swatch](./assets/blues_color_swatch.png)
 
