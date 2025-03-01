@@ -4,7 +4,7 @@
 
 Please consider donating to [Clean the Oceans](https://theoceancleanup.com/donate-as-person/)
 
-![banner](./assets/pelagic_banner_seastar_1.png)
+![banner](./assets/wallpaper_blob_text.png)
 
 ## Screenshots
 
